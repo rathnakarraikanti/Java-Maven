@@ -67,6 +67,11 @@
                 <version>${samples.version}</version>
             </dependency>
             <dependency>
+  <groupId>de.pentabyte</groupId>
+  <artifactId>springfox-enum-plugin</artifactId>
+  <version>3.0.0</version>
+</dependency>
+            <dependency>
                 <groupId>org.hdrhistogram</groupId>
                 <artifactId>HdrHistogram</artifactId>
                 <version>${hdrhistogram.version}</version>
